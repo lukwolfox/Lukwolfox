@@ -1,1 +1,23 @@
-<h1>Github pages test
+<h1>Github pages test<h1>
+<audio controls>
+  <source src="./una-luz.mp3" type="audio/mpeg">
+  Tu navegador no soporta el elemento de audio.
+</audio>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <title>página de prueba</title>
+</head>
+<body>
+  <header>
+    <h1>Encabezado principal</h1>
+    <nav>
+      <ul>
+        <li><a href="#inicio">Inicio</a></li>
+        <li><a href="#acerca">Acerca</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+</body>
+</html>
